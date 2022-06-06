@@ -1,0 +1,2 @@
+to run the django app : 
+-> python3 manage.py runserver
